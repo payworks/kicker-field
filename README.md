@@ -9,7 +9,7 @@ Made as a quick experiment on HyperDev, see it in action: https://shore-seed.hyp
 
 ## Set up
 
-To set up the project for yourself, set up a MongoDB instance and simply _remix_ the [project on HyperDev](https://hyperdev.com/#!/project/shore-seed). Or deploy the node.js source code.
+To set up the project for yourself, set up a MongoDB instance and simply _remix_ the [project on HyperDev](https://hyperdev.com/#!/project/shore-seed). Or deploy the Node.js source code as you wish.
 
 ## Slack Integration
 
